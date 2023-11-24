@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  background-color: #E6E6FA;
+  padding: 10px 0;
+}
+
+.navigation a {
+  color: black;
+  text-decoration: none;
+  margin: 0 20px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.navigation a:hover {
+  color: purple;
+}
